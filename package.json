@@ -1,0 +1,21 @@
+{
+  "name": "vto_cli",
+  "version": "1.0.0",
+  "description": "Viivistatu otsuste command line generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vto",
+    "generator"
+  ],
+  "author": "Dmitri Djakov",
+  "license": "ISC",
+  "dependencies": {
+    "fast-glob": "^2.2.4",
+    "hummus-recipe": "^1.8.0",
+    "lodash": "^4.17.11",
+    "sqlite-sync": "^0.3.8"
+  }
+}
